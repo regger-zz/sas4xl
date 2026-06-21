@@ -1,6 +1,5 @@
 # MANUAL REVIEW REQUIRED
 # Reason: Complex RETAIN+BY+FIRST pattern
-# Original SAS code:
 # data summary;
 #     set raw_data;
 #     where age > 18;
@@ -11,5 +10,3 @@
 #     monthly_avg = sales / 30;
 # run;
 # 
-
-# TODO: Manual translation needed
